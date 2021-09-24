@@ -1,7 +1,8 @@
 body{
-	background-color: black;
+	background-image:url("Pizza.jpeg");
+	background-position: center;
+	background-size: cover;
 }
-
 .topnav {
 	overflow: hidden;
 	background-color: #333;
